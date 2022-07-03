@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #!/usr/bin/phyton3
 python3 -c $PYFILE
 
 export PYFILE=main.py
+=======
+#!/bin/bash
+python3 -c $PYFILE
+>>>>>>> cde2806cf4956009fa263feab60d3d347dfcfd57
