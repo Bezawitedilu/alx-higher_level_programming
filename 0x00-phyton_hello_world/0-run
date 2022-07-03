@@ -1,4 +1,4 @@
 #!/usr/bin/phyton3
-print("Best School")
+python3 -c $PYFILE
 
 export PYFILE=main.py
